@@ -10,5 +10,9 @@ public class Circle extends Polygon{
 		int b=20;
 		
 	}
+	private void kavin() {
+		System.out.println("bbuvvkmluyhg");
+
+	}
 		
 }
