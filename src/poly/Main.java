@@ -12,6 +12,12 @@ public class Main {
 		Polygon g1 = new Polygon();
 		g1.render();
 	}
-	
+/*	private void hi() {
+		System.out.println("hi kavin");
+	}
+	private void ram() {
+		System.out.println("Hi ram");*/
 
-}
+	}
+
+
